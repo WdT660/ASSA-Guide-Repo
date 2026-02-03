@@ -8,4 +8,3 @@ Setting out the rules for making changes and pull requests as well as how review
 @Wynand test
 
 @Garrit to Approve
-@Garrit to Decline
